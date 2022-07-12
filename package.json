@@ -1,0 +1,8 @@
+{
+  "name": "product-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liviaalvzs/product-search.git",
+  "author": "liviaalvzs <livs.santana01@gmail.com>",
+  "license": "MIT"
+}
