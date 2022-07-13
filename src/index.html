@@ -5,22 +5,26 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Bookstore 📚</title>
-        <link rel="stylesheet" href="style/style.css">
+        <link rel="stylesheet" href="styles/switch.css">
+        <link rel="stylesheet" href="styles/light-style.css">
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
     </head>
-    <body>
+    
         <div class="icon">
-            <img src="img/icon.png">
+            <img id="icon" src="img/icon.png">
         </div>
         <section class="container">
             <form>
                 <i class="fas fa-search"></i>
                 <input type="text" name="" id="search-item" placeholder="pesquisar produto">
             </form>
-            <div class="product-area">
+
+
+
+            <div class="product-area" id="product-area">
 
             </div>
             <div class="models">
@@ -36,6 +40,13 @@
             
             </div>
         </section>
+        <body>
+            <div class="change-theme">
+                <label class="switch">
+                    <input type="checkbox" class="change-theme-checkbox">
+                    <span class="slider round"></span>
+                  </label>
+            </div>
         <script type="module" src="scripts/app.js"></script>
     </body>
 </html>
