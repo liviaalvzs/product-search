@@ -19,4 +19,6 @@ body {
     width: 375px;
     height: 520px;
     background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 4px 4px 30px rgb(0, 0, 0, 0.06);
 }
