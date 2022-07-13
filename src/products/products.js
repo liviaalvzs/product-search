@@ -1,3 +1,4 @@
+
 let productsJson = [
     {id:1, name:'Dias Perfeitos - Raphael Montes', img:'img/diasperfeitos-raphaelmontes.png', price:20.90},
     {id:3, name:'Jantar Secreto - Raphael Montes', img:'img/jantarsecreto-raphaelmontes.png', price:20.90},
@@ -9,9 +10,8 @@ let productsJson = [
     {id:8,  name:'Filhos de Duna - Frank Hebert', img:'img/filhosdeduna-frankhebert.png', price:20.90},
     {id:9,  name:'Eu, Robô - Isaac Asimov', img:'img/eurobo-isaacasimov.png', price:20.90},
     {id:10, name:'Fundação - Isaac Asimov', img:'img/fundacao-isaacasimov.png', price:20.90},
-    {id:11, name:'Segunda Fundação - Isaac Asimov', img:'img0/segundafundacao-isaacasimov.png', price:20.90},
+    {id:11, name:'Segunda Fundação - Isaac Asimov', img:'img/segundafundacao-isaacasimov.png', price:20.90},
     {id:11, name:'Fundação e imperio - Isaac Asimov', img:'img/fundacaoeimpaerio-isaacasimov.png', price:20.90},
 ];
 
 export {productsJson};
-
