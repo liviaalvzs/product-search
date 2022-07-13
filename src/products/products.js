@@ -11,7 +11,7 @@ let productsJson = [
     {id:9,  name:'Eu, Robô - Isaac Asimov', img:'img/eurobo-isaacasimov.png', price:20.90},
     {id:10, name:'Fundação - Isaac Asimov', img:'img/fundacao-isaacasimov.png', price:20.90},
     {id:11, name:'Segunda Fundação - Isaac Asimov', img:'img/segundafundacao-isaacasimov.png', price:20.90},
-    {id:11, name:'Fundação e imperio - Isaac Asimov', img:'img/fundacaoeimpaerio-isaacasimov.png', price:20.90},
+    {id:12, name:'Fundação e imperio - Isaac Asimov', img:'img/fundacaoeimpaerio-isaacasimov.png', price:20.90},
 ];
 
 export {productsJson};
