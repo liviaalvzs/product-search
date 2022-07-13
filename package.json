@@ -4,5 +4,6 @@
   "main": "index.js",
   "repository": "https://github.com/liviaalvzs/product-search.git",
   "author": "liviaalvzs <livs.santana01@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
